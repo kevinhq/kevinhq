@@ -1,1 +1,1 @@
-Hello world!
+Hi, I'm Kevin, a developer with a focus on back-end scripting and automation. For over a decade, I've been helping businesses and individuals simplify processes and build reliable systems. My approach is rooted in finding practical solutions and continuously improving my skills to meet unique challenges. 
